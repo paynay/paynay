@@ -1,10 +1,6 @@
 # paynay
 
-<p align="center">
-    <img src="https://cdn.discordapp.com/attachments/575318354529746946/575318376529002547/ic_launcher.png"
-        height="130">
-</p>
-<p align="center">
+
  <a href="https://www.reddit.com/r/paynay_Currency/">
         <img src="https://img.shields.io/badge/join%20us%20on-reddit-orange.svg"
             alt="join us on Reddit"></a>
@@ -17,8 +13,7 @@
 </p>
 
 # What is paynay?
-paynay is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work with Proof-of-Stake, paynay coin (PAYNAY) is unique in its distribution. On June 16, 2017, paynay entered a "Super Rewards Bonanza" stage for 24 hours (Blocks 11522-11810). During this time, 95% of the Proof-of-Work coins were generated. At Block 11811, paynay swapped to Proof-of-Stake with an annual interest rate of 50%, until Block 112200. This created a gold-rush period, promoting the network and rapidly increasing the amount of PAYNAY. The 30-Billion PAYNAY is a soft limit, and is controlled by the Proof-of-Stake Block Reward Schedule.
-
+paynay is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work with Proof-of-Stake, paynay coin (PAYNAY) is unique in its distribution. 
 
 <a name="specifications"></a>
 ## Technical Specifications
@@ -26,7 +21,7 @@ paynay is a Blockchain using the highly-secure and power-efficient NIST5 algorit
 <tr> <td>Ticker</td><td>PAYNAY</td></tr>
 <tr> <td>Algorithm</td><td>NIST5/SHA-256</td></tr>
 <tr> <td>Consensus</td><td>Proof-of-Stake 3.0e</td></tr>
-<tr> <td>Maximum Supply</td><td>30,000,000,000* </td></tr>
+<tr> <td>Maximum Supply</td><td>10,000,000* </td></tr>
 <tr> <td>Block Time</td><td>64 Seconds</td></tr>
 <tr> <td>Block Size</td><td>10 MB</td></tr>
 <tr> <td>Transactions Per Second</td><td>~800</td></tr>
@@ -36,7 +31,7 @@ paynay is a Blockchain using the highly-secure and power-efficient NIST5 algorit
 <tr> <td>Lightning Network</td><td>Yes</td></tr>
 <tr> <td>Atomic Swap</td><td>Yes (Barterdex)</td></tr>
 <tr> <td>ICO</td><td>None</td></tr>
-<tr> <td>Premine</td><td>3.34%</td></tr>
+<tr> <td>Premine</td><td>10%</td></tr>
 <tr> <td>Foundation</td><td>Yes</td></tr>
 </table>
 *Proof-of-Stake is by definition infinite. The Block Reward Schedule is such that the limit is never reached.
@@ -46,25 +41,8 @@ paynay is a Blockchain using the highly-secure and power-efficient NIST5 algorit
 <tr> <td>SegWit</td></tr>
 </table>
 
-## Work done
 
-[BIP130](https://github.com/paynay-project/paynay-core/releases/tag/2.1.0) 
 
-[BIP68](https://github.com/paynay-project/paynay-core/releases/tag/2.1.0)
-    
-## Block Reward Schedule
-
-| Percentage | Block              | Note                  |
-|------------|--------------------|-----------------------|
-| 50%        | 11811   - 112200   | Year 1                |
-| 2.5%       | 112201  - 604950   | Year 2                |
-| 1.25%      | 604951  - 1097700  | Year 3                |
-| 0.63%      | 1097701 - 1590450  | Year 4                |
-| 0.31%      | 1590451 - 2083200  | Year 5                |
-| 0.16%      | 2083201 - 2575950  | Year 6                |
-| 0.08%      | 2575951 - 3068700  | Year 7                |
-| 0.04%      | 3068701 - 3561450  | Year 8                |
-| 0.02%      | 3561451+           | Permanent Rate        |
 
 ## Our Mission
 Leverage Blockchain technology and provide users with fast and secure transactions.
