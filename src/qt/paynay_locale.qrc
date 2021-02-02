@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/paynay_bg.qm</file>
+        <file alias="ca">locale/paynay_ca.qm</file>
+        <file alias="cs">locale/paynay_cs.qm</file>
+        <file alias="da">locale/paynay_da.qm</file>
+        <file alias="de">locale/paynay_de.qm</file>
+        <file alias="en">locale/paynay_en.qm</file>
+        <file alias="en_US">locale/paynay_en_US.qm</file>
+        <file alias="eo">locale/paynay_eo.qm</file>
+        <file alias="es">locale/paynay_es.qm</file>
+        <file alias="es_ES">locale/paynay_es_ES.qm</file>
+        <file alias="fi">locale/paynay_fi.qm</file>
+        <file alias="fr_FR">locale/paynay_fr_FR.qm</file>
+        <file alias="hi_IN">locale/paynay_hi_IN.qm</file>
+        <file alias="hr">locale/paynay_hr.qm</file>
+        <file alias="hr_HR">locale/paynay_hr_HR.qm</file>
+        <file alias="it">locale/paynay_it.qm</file>
+        <file alias="ja">locale/paynay_ja.qm</file>
+        <file alias="ko_KR">locale/paynay_ko_KR.qm</file>
+        <file alias="lt_LT">locale/paynay_lt_LT.qm</file>
+        <file alias="nl">locale/paynay_nl.qm</file>
+        <file alias="pl">locale/paynay_pl.qm</file>
+        <file alias="pt">locale/paynay_pt.qm</file>
+        <file alias="pt_BR">locale/paynay_pt_BR.qm</file>
+        <file alias="ro_RO">locale/paynay_ro_RO.qm</file>
+        <file alias="ru">locale/paynay_ru.qm</file>
+        <file alias="sk">locale/paynay_sk.qm</file>
+        <file alias="sv">locale/paynay_sv.qm</file>
+        <file alias="tr">locale/paynay_tr.qm</file>
+        <file alias="uk">locale/paynay_uk.qm</file>
+        <file alias="vi">locale/paynay_vi.qm</file>
+        <file alias="zh_CN">locale/paynay_zh_CN.qm</file>
+        <file alias="zh_TW">locale/paynay_zh_TW.qm</file>
+    </qresource>
+</RCC>

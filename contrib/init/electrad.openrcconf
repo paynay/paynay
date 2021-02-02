@@ -1,0 +1,26 @@
+# /etc/conf.d/paynayd: config file for /etc/init.d/paynayd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/paynay/paynay.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/paynayd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/paynayd.pid"
+
+# Where to write paynayd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/paynayd"
+
+# User and group to own paynayd process
+#BITCOIND_USER="paynay"
+#BITCOIND_GROUP="paynay"
+
+# Path to paynayd executable
+#BITCOIND_BIN="/usr/bin/paynayd"
+
+# Nice value to run paynayd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

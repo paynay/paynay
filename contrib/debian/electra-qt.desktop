@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=paynay
+Comment=paynay P2P Cryptocurrency
+Comment[fr]=paynay, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=paynay, eşten eşe kriptografik sanal para birimi
+Exec=paynay-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/paynay;
+Categories=Office;Finance;
