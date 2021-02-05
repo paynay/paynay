@@ -127,11 +127,11 @@ public:
         nTargetSpacing = 64; // 64 seconds
         nMaturity = 10;
         nMasternodeCountDrift = 20;
-        nMaxMoneyOut = 30000000000 * COIN;
+        nMaxMoneyOut = 20000000 * COIN;
 
         /** Height or Time Based Activations **/
-        nLastPOWBlock = 256000;
-        nPOSStartBlock = 255000;
+        nLastPOWBlock = 512000;
+        nPOSStartBlock = 500000;
         nMandatoryUpgradeBlock = 182750;
         nUpgradeBlockVersion = 8;                                   // Block headers must be this version after upgrade block
         nZerocoinStartHeight = 2100000000;                          // OFF
