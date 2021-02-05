@@ -21,7 +21,7 @@ paynay is a Blockchain using the highly-secure and power-efficient NIST5 algorit
 <tr> <td>Ticker</td><td>PAYNAY</td></tr>
 <tr> <td>Algorithm</td><td>NIST5/SHA-256</td></tr>
 <tr> <td>Consensus</td><td>Proof-of-Stake 3.0e</td></tr>
-<tr> <td>Maximum Supply</td><td>10,000,000* </td></tr>
+<tr> <td>Maximum Supply</td><td>20,000,000* </td></tr>
 <tr> <td>Block Time</td><td>64 Seconds</td></tr>
 <tr> <td>Block Size</td><td>10 MB</td></tr>
 <tr> <td>Transactions Per Second</td><td>~800</td></tr>
