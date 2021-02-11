@@ -857,47 +857,47 @@ void BitcoinGUI::showHelpMessageClicked()
 
 void BitcoinGUI::webmainActionClicked()
 {
-	QDesktopServices::openUrl(QUrl("https://www.paynayproject.org"));
+	QDesktopServices::openUrl(QUrl("https://www.paynay.net"));
 }
 void BitcoinGUI::facebookActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://www.facebook.com/paynaycoineca"));
+        QDesktopServices::openUrl(QUrl("https://www.facebook.com/paynay.coin"));
 }
 void BitcoinGUI::twitterActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://twitter.com/paynaycoinECA"));
+        QDesktopServices::openUrl(QUrl("https://twitter.com/Paynay4"));
 }
 void BitcoinGUI::discordActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://discordapp.com/invite/B8F7Jdv"));
+        QDesktopServices::openUrl(QUrl("https://"));
 }
 void BitcoinGUI::telegramActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://t.me/paynaycoin"));
+        QDesktopServices::openUrl(QUrl("https://t.me/paynaycryptocurrency"));
 }
 void BitcoinGUI::youtubeActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://www.youtube.com/channel/UCJsNuZ3smLeQ4ldA5UBGNqA"));
+        QDesktopServices::openUrl(QUrl("https://"));
 }
 void BitcoinGUI::redditActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://www.reddit.com/r/paynay_Currency/"));
+        QDesktopServices::openUrl(QUrl("https://www.reddit.com/user/paynay-coin"));
 }
 void BitcoinGUI::exchangesActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://paynayproject.org/exchanges/"));
+        QDesktopServices::openUrl(QUrl("https://"));
 }
 void BitcoinGUI::paynayBlockExplorerActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://www.paynayexplorer.info/"));
+        QDesktopServices::openUrl(QUrl("http://161.35.189.61:3001/"));
 }
 void BitcoinGUI::cmcActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://coinmarketcap.com/currencies/paynay/"));
+        QDesktopServices::openUrl(QUrl("https://#"));
 }
 void BitcoinGUI::githubActionClicked()
 {
-	QDesktopServices::openUrl(QUrl("https://github.com/paynay-project/"));
+	QDesktopServices::openUrl(QUrl("https://github.com/paynay/paynay/"));
 }
 
 #ifdef ENABLE_WALLET
